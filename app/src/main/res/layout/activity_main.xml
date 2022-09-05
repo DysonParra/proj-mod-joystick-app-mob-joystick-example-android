@@ -1,0 +1,37 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/txtSelectJoystick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/textViewSize"
+        android:layout_centerHorizontal="true"
+        android:text="@string/txtSelectJoystick"/>
+
+    <Spinner
+        android:id="@+id/spnJoystickName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTop"
+        android:layout_marginBottom="@dimen/marginBottom"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/textViewSize"
+        android:layout_below="@+id/txtSelectJoystick"
+    >
+    </Spinner>
+
+    <Button
+        android:id="@+id/btnCreateConnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/marginTop"
+        android:layout_marginBottom="@dimen/marginBottom"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/spnJoystickName"
+        android:text="@string/btnCreate"/>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtAppName">Joystick Example</string>
+
+    <string name="txtSelectJoystick">Indique el nombre del joystick que controlará el programa.</string>
+    <string name="btnCreate">Iniciar</string>
+
+    <string name="txtJoystickInfoServer">Servidor</string>
+    <string name="txtJoystickInfoPort">Puerto</string>
+
+    <string name="txtClientConnected">An client has beeen connected.</string>
+    <string name="txtClientDisconnected">An client has beeen disconnected.</string>
+</resources>
