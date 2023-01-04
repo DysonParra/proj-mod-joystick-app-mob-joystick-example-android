@@ -1,13 +1,13 @@
 /*
- * @fileoverview {GenericJoystickComponentActionSetter<T,} se encarga de realizar tareas especificas.
+ * @fileoverview {GenericJoystickComponentActionSetter} se encarga de realizar tareas especificas.
  *
  * @version             1.0
  *
  * @author              Dyson Arley Parra Tilano <dysontilano@gmail.com>
  * Copyright (C) Dyson Parra
  *
- * @History v1.0 --- La implementacion de {GenericJoystickComponentActionSetter<T,} fue realizada el 31/07/2022.
- * @Dev - La primera version de {GenericJoystickComponentActionSetter<T,} fue escrita por Dyson A. Parra T.
+ * @History v1.0 --- La implementacion de {GenericJoystickComponentActionSetter} fue realizada el 31/07/2022.
+ * @Dev - La primera version de {GenericJoystickComponentActionSetter} fue escrita por Dyson A. Parra T.
  */
 package com.project.dev.example.joystick.mobile.setter;
 
@@ -16,7 +16,7 @@ import com.project.dev.joystick.name.generic.GenericJoystick;
 import lombok.Data;
 
 /**
- * TODO: Definición de {@code C}.
+ * TODO: Definición de {@code GenericJoystickComponentActionSetter}.
  *
  * @param <T> es el tipo de componente de la ventana (JFrame o activity)
  * @param <C> es el tipo de componente gráfico que se manipulará.
