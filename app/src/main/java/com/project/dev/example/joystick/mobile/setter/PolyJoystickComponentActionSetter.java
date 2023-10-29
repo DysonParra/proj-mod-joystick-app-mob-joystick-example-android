@@ -27,7 +27,7 @@ import com.project.dev.example.joystick.mobile.buttonaction.ButtonAction;
  * TODO: Definición de {@code PolyJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class PolyJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<ExampleActivity, ImageView> {
 

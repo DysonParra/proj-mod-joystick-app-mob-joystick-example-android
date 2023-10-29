@@ -33,7 +33,7 @@ import com.project.dev.example.joystick.mobile.R;
  * TODO: Definición de {@code MainActivity}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class MainActivity extends AppCompatActivity {
 

@@ -51,7 +51,7 @@ import com.project.dev.example.joystick.mobile.setter.PolyJoystickComponentActio
  * TODO: Definición de {@code ExampleActivity}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class ExampleActivity extends Activity {
 

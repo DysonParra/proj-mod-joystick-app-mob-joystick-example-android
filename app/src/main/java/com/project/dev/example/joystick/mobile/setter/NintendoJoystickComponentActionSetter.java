@@ -27,7 +27,7 @@ import com.project.dev.example.joystick.mobile.buttonaction.ButtonAction;
  * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
- * @since 1.8
+ * @since 11
  */
 public class NintendoJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<ExampleActivity, ImageView> {
 
