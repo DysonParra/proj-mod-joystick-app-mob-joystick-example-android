@@ -48,7 +48,7 @@ import com.project.dev.example.joystick.mobile.setter.NintendoJoystickComponentA
 import com.project.dev.example.joystick.mobile.setter.PolyJoystickComponentActionSetter;
 
 /**
- * TODO: Definición de {@code ExampleActivity}.
+ * TODO: Description of {@code ExampleActivity}.
  *
  * @author Dyson Parra
  * @since 11
@@ -123,7 +123,7 @@ public class ExampleActivity extends Activity {
     }
 
     /**
-     * FIXME: Definición de {@code startActivity}. Inicializa el joystick con la información
+     * FIXME: Description of {@code startActivity}. Inicializa el joystick con la información
      * obtenida del activity anterior.
      */
     private void startActivity() {
@@ -198,7 +198,7 @@ public class ExampleActivity extends Activity {
     }
 
     /**
-     * FIXME: Definición de {@code onKeyDown}. Comportamiento del botón atrás.Indica que cuando se
+     * FIXME: Description of {@code onKeyDown}. Comportamiento del botón atrás.Indica que cuando se
      * cierre la ventana se parará el servidor del joystick.
      *
      * @param keyCode
@@ -220,7 +220,7 @@ public class ExampleActivity extends Activity {
     }
 
     /**
-     * FIXME: Definición de {@code getIpAddress}. Obtiene la dirección ip del dispositivo.
+     * FIXME: Description of {@code getIpAddress}. Obtiene la dirección ip del dispositivo.
      *
      * @return
      */

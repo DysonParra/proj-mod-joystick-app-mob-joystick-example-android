@@ -20,7 +20,7 @@ import android.graphics.BitmapFactory;
 import java.io.InputStream;
 
 /**
- * TODO: Definición de {@code GraphicGetter}.
+ * TODO: Description of {@code GraphicGetter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -30,7 +30,7 @@ public class GraphicGetter {
     private static final String RES_ROOT_PATH = "/assets/com/project/dev/example/joystick/mobile/";
 
     /**
-     * FIXME: Definición de {@code getGraphic}. Obtiene un Bitmap desde los recursos de la app.
+     * FIXME: Description of {@code getGraphic}. Obtiene un Bitmap desde los recursos de la app.
      *
      * @param fileName es el nombre de la imagen.
      * @return un Bitmap obtenido desde el archivo indicado.
@@ -45,7 +45,7 @@ public class GraphicGetter {
     }
 
     /**
-     * FIXME: Definición de {@code getGraphic}. Obtiene un Bitmap desde los recursos de la app.
+     * FIXME: Description of {@code getGraphic}. Obtiene un Bitmap desde los recursos de la app.
      *
      * @param fileName       es el nombre de la imagen.
      * @param windowWidth    es el ancho máximo de la ventana donde se moverá el componente gráfico.

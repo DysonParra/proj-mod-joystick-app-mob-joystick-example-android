@@ -30,7 +30,7 @@ import static com.project.dev.joystick.name.generic.GenericJoystick.JOYSTICK_TYP
 import com.project.dev.example.joystick.mobile.R;
 
 /**
- * TODO: Definición de {@code MainActivity}.
+ * TODO: Description of {@code MainActivity}.
  *
  * @author Dyson Parra
  * @since 11

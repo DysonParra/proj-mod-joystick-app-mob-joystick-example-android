@@ -24,7 +24,7 @@ import com.project.dev.example.joystick.mobile.activity.ExampleActivity;
 import com.project.dev.example.joystick.mobile.buttonaction.ButtonAction;
 
 /**
- * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
+ * TODO: Description of {@code NintendoJoystickComponentActionSetter}.
  *
  * @author Dyson Parra
  * @since 11
@@ -32,7 +32,7 @@ import com.project.dev.example.joystick.mobile.buttonaction.ButtonAction;
 public class NintendoJoystickComponentActionSetter extends GenericJoystickComponentActionSetter<ExampleActivity, ImageView> {
 
     /**
-     * TODO: Definición de {@code NintendoJoystickComponentActionSetter}.
+     * TODO: Description of {@code NintendoJoystickComponentActionSetter}.
      *
      * @param component      es un componente gráfico que será controlado por el joystick
      * @param window
@@ -45,7 +45,7 @@ public class NintendoJoystickComponentActionSetter extends GenericJoystickCompon
     }
 
     /**
-     * FIXME: Definición de {@code setButtonActions}. Asigna acciones a un joystick.
+     * FIXME: Description of {@code setButtonActions}. Asigna acciones a un joystick.
      *
      * @param joystick es el joystick que controlará el componente.
      * @throws java.lang.Exception si no es posible asignar acciones al joystick indicado.
